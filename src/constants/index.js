@@ -26,6 +26,7 @@ import {
     typescript
 } from "../assets/icons";
 
+
 export const skills = [
     {
         imageUrl: css,
@@ -63,17 +64,17 @@ export const skills = [
         type: "Database",
     },
     {
-        imageUrl: "Cp.jpg",
+        imageUrl: "https://cdn-icons-png.flaticon.com/512/74/74897.png",
         name: "C++",
         type: "Language",
     },
     {
-        imageUrl: "pyy.png",
+        imageUrl: "https://s.yimg.com/zb/imgv1/0f0f5a05-3ee9-3b18-a598-0c0b40125d45/t_500x300",
         name: "Python",
         type: "Language",
     },
     {
-        imageUrl: "sq.png",
+        imageUrl: "https://tse4.mm.bing.net/th?id=OIP.urLHYMYPFxkcs6AC4Io9vwHaHa&pid=Api&P=0&h=220",
         name: "MySQL",
         type: "Database",
     },
@@ -88,12 +89,12 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl:"mll.jpg",
+        imageUrl:"https://static.vecteezy.com/system/resources/previews/013/899/429/original/machine-learning-icon-artificial-intelligence-smart-machine-logo-template-illustration-free-vector.jpg",
         name: "Machine Learning",
         type: "Machine Learning",
     },
     {
-        imageUrl: "ds.jpeg",
+        imageUrl: "https://st2.depositphotos.com/2777531/6506/v/450/depositphotos_65060183-stock-illustration-problem-solving-logo-theme.jpg",
         name: "Problem Solving",
         type: "Problem Solving",
     },
@@ -103,9 +104,9 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: "da.png",
-        name: "Data Analytic",
-        type: "Data Analysis",
+        imageUrl: "https://www.learnsimpli.com/wp-content/uploads/2021/05/Data-structure-and-algorithms.png",
+        name: "Data structure and algo",
+        type: "Problem Solving",
     }
 ];
 
@@ -205,14 +206,14 @@ export const projects = [
         link: 'https://github.com/shaunfernandes84/HOMIES-let-s-chat.git',
     },
     {
-        iconUrl: "da.png",
+        iconUrl: "https://static.vecteezy.com/system/resources/previews/013/899/429/original/machine-learning-icon-artificial-intelligence-smart-machine-logo-template-illustration-free-vector.jpg",
         theme: 'btn-back-yellow',
         name: 'AQI Prediction',
         description: 'Air Quality Prediction using Regression/html/css/Flask which predicts the value of Particulate Matter(2.5) and the value is represented in User-freindly UI.',
         link: 'https://github.com/shaunfernandes84/shaunfernandes84.git',
     },
     {
-        iconUrl: "mll.jpg",
+        iconUrl: "https://tse3.mm.bing.net/th?id=OIP.tP_CSnPwaJc1lEJgEvlFygHaHw&pid=Api&P=0&h=220",
         theme: 'btn-back-red',
         name: 'Football game Prediction',
         description: 'Developed a ML model using Random Forest/Neural Network/Regression which gives the prediction of Football matches played.',
